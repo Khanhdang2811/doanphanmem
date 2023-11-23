@@ -1,27 +1,52 @@
 # DoAn_Web1
 
-Đồ án môn web 1, web tĩnh, đề tài trang web bán điện thoại.
+Đồ án Phần Mềm - Trang Web Bán Điện Thoại
+Mục Tiêu:
+Xây dựng một trang web bán điện thoại với giao diện thân thiện, dễ sử dụng và chức năng đầy đủ để cung cấp trải nghiệm mua sắm tốt nhất cho người dùng.
 
-Giao diện thân thiện, dễ sử dụng, chức năng khá đầy đủ.
+Chức Năng Cơ Bản:
 
-Chức năng **Cơ bản**:
+Trang Chủ:
+Hiển thị đẹp với các mục: Nổi bật, Mới, Khuyến mãi, Giá rẻ.
+Slider hình ảnh quảng cáo sản phẩm.
+Nút "Xem Thêm" để khám phá nhiều sản phẩm hơn.
+Tìm Kiếm/Lọc/Sắp Xếp:
+Thanh tìm kiếm nhanh và chức năng lọc theo hãng, giá, tên, khuyến mãi, đánh giá, số sao.
+Sắp xếp sản phẩm theo nhiều tiêu chí khác nhau.
+Đăng Ký và Đăng Nhập:
+Form đăng ký và đăng nhập đơn giản với kiểm tra xác thực.
+Tích hợp đăng nhập bằng tài khoản Google hoặc Facebook.
+Giỏ Hàng và Thanh Toán:
+Hiển thị giỏ hàng với danh sách sản phẩm và tổng tiền.
+Cập nhật số lượng sản phẩm, xóa sản phẩm từ giỏ hàng.
+Chức năng tích hợp thanh toán trực tuyến an toàn.
+Trang Người Dùng và Lịch Sử Mua Hàng:
+Người dùng có thể xem thông tin cá nhân và lịch sử mua hàng.
+Đơn hàng đã đặt và trạng thái của chúng.
+Trang Chi Tiết Sản Phẩm:
+Hiển thị thông tin chi tiết, đánh giá sản phẩm và sản phẩm liên quan.
+Chức Năng Gợi Ý:
+Gợi ý sản phẩm tương tự dựa trên sở thích và lịch sử mua hàng.
+Chức Năng ADMIN:
 
-- Trang chủ hiển thị đẹp, các sản phẩm được chia theo nhiều tiêu chí: nổi bật, mới, khuyến mãi, giá rẻ, .. 
-- Tìm kiếm/lọc/sắp xếp sản phẩm theo hãng, giá, tên, khuyến mãi, đánh giá, số sao, ...
-- Đăng ký, đăng nhập, giỏ hàng, trang người dùng, lịch sử mua hàng.
-- Trang chi tiết sản phẩm, giao diện **gợi ý sản phẩm** tương tự.
+Thống Kê:
+Biểu đồ số lượng bán ra và doanh thu theo từng hãng.
+Tổng số đơn hàng, số lượng sản phẩm đã bán.
+Quản Lý Sản Phẩm:
+Danh sách sản phẩm với tìm kiếm, lọc, thêm, sửa, xoá sản phẩm.
+Thêm hình ảnh và mô tả chi tiết cho mỗi sản phẩm.
+Quản Lý Đơn Hàng:
+Danh sách đơn hàng với tìm kiếm, lọc, duyệt, huỷ đơn hàng.
+Xem thông tin chi tiết về từng đơn hàng.
+Quản Lý Khách Hàng:
+Danh sách khách hàng với tìm kiếm, lọc, thêm, xoá, khoá khách hàng.
+Xem thông tin chi tiết về từng khách hàng.
+Quản Lý Tài Khoản Admin:
+Thêm và quản lý tài khoản admin khác.
+Admin Account:
 
-Chức năng **ADMIN**:
-
-- **Thống kê** số lượng bán ra, doanh thu của từng hãng
-- Danh sách **sản phẩm**, tìm kiếm/lọc, thêm/sửa/xoá sản phẩm
-- Danh sách **đơn hàng**, tìm kiếm/lọc, duyệt/huỷ đơn hàng
-- Danh sách **khách hàng**, tìm kiếm/lọc, thêm/xoá/khoá khác hàng
-
-## Admin Account: 
-+ username: admin
-+ password: adadad
-
+Username: admin
+Password: adadad
 ## Screenshots
 
 ### Cơ bản
